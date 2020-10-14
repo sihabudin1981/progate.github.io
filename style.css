@@ -147,7 +147,6 @@ footer{
     border: 2px solid rgba(255,255,255.4);
     margin: 0 -2.5px;
     font-weight: bold;
-    z-index: 10;
 }
 
 @keyframes animate{
