@@ -27,6 +27,7 @@ body{
 }
 
 .menu-bar{
+    width: 100%;
     background: #292927;
     text-align: right;
 }
