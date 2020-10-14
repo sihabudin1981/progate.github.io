@@ -129,8 +129,8 @@ footer{
 
 .glowing{
     position: absolute;
-    top: 20%;
-    left: 420px;
+    top: auto;
+    justify-content: center;
     transform: tranlate(-50%, -50%);
 }
 
