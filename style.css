@@ -130,6 +130,7 @@ footer{
 .glowing{
     position: absolute;
     top: auto;
+    float: left;
     justify-content: center;
     transform: tranlate(-50%, -50%);
 }
