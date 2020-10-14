@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=poppins:100,200,300,400,500,600,700,800,900');
 *{
     padding: 0;
     margin: 0;
@@ -290,3 +291,19 @@ footer{
     background: maroon;
     color: #fff;
 }
+
+@media (max-width:768px)
+{
+    .menu-bar ul
+    {
+        display: block;
+    }
+    .menu-bar ul li
+    {
+        display: block;
+    }
+    .menu-bar ul li ul
+    {
+        width: 100%;
+        z-index: 1;
+    }
